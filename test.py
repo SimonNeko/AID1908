@@ -6,3 +6,4 @@ def fun():
         print("哈哈哈")
 
 fun()
+print("hello")

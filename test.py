@@ -2,4 +2,7 @@ print("hello world")
 
 
 def fun():
-    print("哈哈哈")
+    for i in range(5)
+        print("哈哈哈")
+
+fun()
